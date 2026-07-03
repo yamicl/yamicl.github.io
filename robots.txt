@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yanmizy.github.io/sitemap.xml
+Sitemap: https://yamicl.github.io/sitemap.xml
