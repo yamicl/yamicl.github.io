@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yamicl.是.gay/sitemap.xml
+Sitemap: https://yamicl.github.io/sitemap.xml
